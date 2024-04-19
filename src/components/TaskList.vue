@@ -41,4 +41,8 @@ ul {
   border: 1px solid #333;
   margin-bottom: 8px;
 }
+
+p {
+  margin: 0;
+}
 </style>
